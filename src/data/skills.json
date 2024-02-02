@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Angular",
+    "imageSrc": "skills/angular.png"
+  },
+  {
+    "title": "Ionic",
+    "imageSrc": "skills/ionic.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "NodeJS",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "NestJS",
+    "imageSrc": "skills/nestjs.png"
+  },
+  {
+    "title": "AWS",
+    "imageSrc": "skills/aws.png"
+  },
+  {
+    "title": "PostgreSQL",
+    "imageSrc": "skills/postgresql.png"
+  },
+  {
+    "title": "Git",
+    "imageSrc": "skills/git.png"
+  },
+  {
+    "title": "Gradle",
+    "imageSrc": "skills/gradle.png"
+  },
+  {
+    "title": "Android Studio",
+    "imageSrc": "skills/android-studio.png"
+  }
+]

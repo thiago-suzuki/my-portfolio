@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Portfolio",
+    "imageSrc": "projects/portfolio.png",
+    "description": "Portfólio pessoal feito para mostragem das minhas experiências e um pouco sobre meus projetos",
+    "skills": ["React", "CSS", "JavaScript"],
+    "demo": "https://dom-casmurro.vercel.app/",
+    "source": "https://github.com/thiago-suzuki/aula01-intensivaojs"
+  },
+  {
+    "title": "Dom Casmurro Audiobook",
+    "imageSrc": "projects/dom-casmurro.png",
+    "description": "Projeto de Audiobook do Dom Casmurro feito durante o Intensivão de JavaScript da Hashtag Treinamentos",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://dom-casmurro.vercel.app/",
+    "source": "https://github.com/thiago-suzuki/aula01-intensivaojs"
+  },
+  {
+    "title": "Apple Watch",
+    "imageSrc": "projects/apple-watch.png",
+    "description": "Réplica do site Apple Watch feito durante o Intensivão de JavaScript da Hashtag Treinamentos",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://apple-watch-rose.vercel.app/",
+    "source": "https://github.com/thiago-suzuki/aula02-intensivaojs"
+  },
+  {
+    "title": "Cardápio Hashtaurante",
+    "imageSrc": "projects/cardapio.png",
+    "description": "Cardápio de restaurante feito durante o Intensivão de JavaScript da Hashtag Treinamentos",
+    "skills": ["React", "CSS", "JavaScript"],
+    "demo":"https://hashtaurante.vercel.app/",
+    "source": "https://github.com/thiago-suzuki/aula03-intensivaojs"
+  },
+  {
+    "title": "Alurakut",
+    "imageSrc": "projects/alurakut.png",
+    "description": "Réplica do site Orkut feito durante a imersão react da Alura",
+    "skills": ["React", "CSS", "JavaScript"],
+    "demo":"https://alurakut-thiago-suzuki.vercel.app",
+    "source": "https://github.com/thiago-suzuki/alurakut"
+  },
+  {
+    "title": "Consulta de CEP",
+    "imageSrc": "projects/consulta-cep.png",
+    "description": "Consulta de CEP feito durante a aula de Desenvolvimento Web na faculdade",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo":"https://consultacep-thiago-suzuki.vercel.app/",
+    "source": "https://github.com/thiago-suzuki/Consulta-de-CEP"
+  }
+]
