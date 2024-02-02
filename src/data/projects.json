@@ -4,8 +4,8 @@
     "imageSrc": "projects/portfolio.png",
     "description": "Portfólio pessoal feito para mostragem das minhas experiências e um pouco sobre meus projetos",
     "skills": ["React", "CSS", "JavaScript"],
-    "demo": "https://dom-casmurro.vercel.app/",
-    "source": "https://github.com/thiago-suzuki/aula01-intensivaojs"
+    "demo": "https://portfolio-suzuki.vercel.app/",
+    "source": "https://github.com/thiago-suzuki/my-portfolio"
   },
   {
     "title": "Dom Casmurro Audiobook",
