@@ -12,6 +12,14 @@
     "imageSrc": "skills/react.png"
   },
   {
+    "title": "NextJS",
+    "imageSrc": "skills/nextjs.png"
+  },
+  {
+    "title": "ExpressJS",
+    "imageSrc": "skills/expressjs.png"
+  },
+  {
     "title": "NodeJS",
     "imageSrc": "skills/node.png"
   },

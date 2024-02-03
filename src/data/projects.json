@@ -46,5 +46,21 @@
     "skills": ["HTML", "CSS", "JavaScript"],
     "demo":"https://consultacep-thiago-suzuki.vercel.app/",
     "source": "https://github.com/thiago-suzuki/Consulta-de-CEP"
+  },
+  {
+    "title": "Dashboards Power BI",
+    "imageSrc": "projects/project.png",
+    "description": "Dashboards feitos durante o Intensivão de Power BI da Hashtag Treinamentos",
+    "skills": ["Power BI"],
+    "demo":"",
+    "source": "https://github.com/thiago-suzuki/Dashboards-PowerBI-2023"
+  },
+  {
+    "title": "Jogo Mata Mosquito",
+    "imageSrc": "projects/matamosquito.png",
+    "description": "Jogo para matar os nosquitos com a rede. Feito durante o curso de Desenvolvimento Web Completo da Udemy",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo":"https://matamosquito.vercel.app/",
+    "source": "https://github.com/thiago-suzuki/Jogo-Mata-Mosquito"
   }
 ]

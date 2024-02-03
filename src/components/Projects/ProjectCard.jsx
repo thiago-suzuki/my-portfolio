@@ -25,11 +25,13 @@ export const ProjectCard = ({
         })}
       </ul>
       <div className={styles.links}>
-        <a href={demo} className={styles.link}>
-          Deploy
-        </a>
+        {demo != '' && (
+          <a href={demo} className={styles.link}>
+            Deploy
+          </a>
+        )}
         <a href={source} className={styles.link}>
-          Código
+          Repositório
         </a>
       </div>
     </div>
