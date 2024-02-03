@@ -19,7 +19,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Local</h3>
               <p>
-                Atualemte, sou residente em Santos-SP
+                Atualmente, sou residente em Santos-SP
               </p>
             </div>
           </li>
