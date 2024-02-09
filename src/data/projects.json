@@ -56,11 +56,11 @@
     "source": "https://github.com/thiago-suzuki/Dashboards-PowerBI-2023"
   },
   {
-    "title": "Jogo Mata Mosquito",
-    "imageSrc": "projects/matamosquito.png",
-    "description": "Jogo para matar os nosquitos com a rede. Feito durante o curso de Desenvolvimento Web Completo da Udemy",
-    "skills": ["HTML", "CSS", "JavaScript"],
-    "demo":"https://matamosquito.vercel.app/",
-    "source": "https://github.com/thiago-suzuki/Jogo-Mata-Mosquito"
+    "title": "Expert Notes",
+    "imageSrc": "projects/expertNotes.png",
+    "description": "Aplicação Web para criação e deleção de notas usando escrita, ou por voz. Feito durante a NLW Expert da Rocketseat",
+    "skills": ["React", "TailwindCSS", "Typescript"],
+    "demo":"https://expert-notes.vercel.app/",
+    "source": "https://github.com/thiago-suzuki/nlw-expert-notes"
   }
 ]
