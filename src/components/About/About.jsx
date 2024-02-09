@@ -46,7 +46,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Desenvolvedor Back-End</h3>
               <p>
-                Como desenvolvedor back-end, crio APIs e struturo tabelas em banco de dados de acordo com as regras de negócio
+                Como desenvolvedor back-end, crio APIs e estruturo tabelas em banco de dados de acordo com as regras de negócio
               </p>
             </div>
           </li>
