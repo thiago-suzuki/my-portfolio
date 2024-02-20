@@ -62,5 +62,13 @@
     "skills": ["React", "TailwindCSS", "Typescript"],
     "demo":"https://expert-notes.vercel.app/",
     "source": "https://github.com/thiago-suzuki/nlw-expert-notes"
+  },
+  {
+    "title": "Listagem de Dados",
+    "imageSrc": "projects/data-list-react.png",
+    "description": "Projeto de Listagem de Dados feito durante o evento React na Prática da Rocketseat",
+    "skills": ["React", "TailwindCSS", "Typescript"],
+    "demo":"",
+    "source": "https://github.com/thiago-suzuki/react-na-pratica-01"
   }
 ]
