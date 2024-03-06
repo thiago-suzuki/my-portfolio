@@ -70,5 +70,21 @@
     "skills": ["React", "TailwindCSS", "Typescript"],
     "demo":"",
     "source": "https://github.com/thiago-suzuki/react-na-pratica-01"
+  },
+  {
+    "title": "Cook App",
+    "imageSrc": "projects/cook-app.png",
+    "description": "Aplicação de Receitas feito durante o evento React Native na Prática da Rocketseat",
+    "skills": ["React Native", "Android Studio", "Typescript"],
+    "demo":"",
+    "source": "https://github.com/thiago-suzuki/react-native-na-pratica-01"
+  },
+  {
+    "title": "Goals App",
+    "imageSrc": "projects/metas-app.png",
+    "description": "Aplicação de Metas feito durante o evento React Native na Prática da Rocketseat",
+    "skills": ["React Native", "Android Studio", "TailwindCSS", "Typescript"],
+    "demo":"",
+    "source": "https://github.com/thiago-suzuki/react-native-na-pratica-02"
   }
 ]
