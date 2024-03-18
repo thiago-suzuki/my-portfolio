@@ -86,5 +86,13 @@
     "skills": ["React Native", "Android Studio", "TailwindCSS", "Typescript"],
     "demo":"",
     "source": "https://github.com/thiago-suzuki/react-native-na-pratica-02"
+  },
+  {
+    "title": "C# API - Rocketseat",
+    "imageSrc": "projects/project.png",
+    "description": "API C# par uplaod de fotos no google drive feito durante o evento C# na Prática da Rocketseat",
+    "skills": ["C#", "Visual Studio", "NET", "Swagger"],
+    "demo":"",
+    "source": "https://github.com/thiago-suzuki/CsharpPraticaRocketseat"
   }
 ]
