@@ -64,6 +64,14 @@
     "source": "https://github.com/thiago-suzuki/nlw-expert-notes"
   },
   {
+    "title": "Pass.in App",
+    "imageSrc": "projects/metas-app.png",
+    "description": "Aplicação de Cadastro de Ingressos feito durante o NLW UNITE na trilha React Native da Rocketseat",
+    "skills": ["React Native", "Android Studio", "TailwindCSS", "Typescript"],
+    "demo":"",
+    "source": "https://github.com/thiago-suzuki/nlw-unite-react-native"
+  },
+  {
     "title": "Listagem de Dados",
     "imageSrc": "projects/data-list-react.png",
     "description": "Projeto de Listagem de Dados feito durante o evento React na Prática da Rocketseat",
