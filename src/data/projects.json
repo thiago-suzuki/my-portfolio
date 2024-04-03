@@ -65,7 +65,7 @@
   },
   {
     "title": "Pass.in App",
-    "imageSrc": "projects/metas-app.png",
+    "imageSrc": "projects/passIN.png",
     "description": "Aplicação de Cadastro de Ingressos feito durante o NLW UNITE na trilha React Native da Rocketseat",
     "skills": ["React Native", "Android Studio", "TailwindCSS", "Typescript"],
     "demo":"",
