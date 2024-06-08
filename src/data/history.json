@@ -1,9 +1,18 @@
 [
   {
+    "role": "Desenvolvedor Full Stack Júnior II",
+    "organisation": "GBM TECH & CONTROL",
+    "startDate": "Jun, 2024",
+    "endDate": "O momento",
+    "experiences": [
+    ],
+    "imageSrc": "history/google.png"
+  },
+  {
     "role": "Desenvolvedor Full Stack Júnior I",
     "organisation": "GBM TECH & CONTROL",
     "startDate": "Mar, 2023",
-    "endDate": "O momento",
+    "endDate": "Jun, 2024",
     "experiences": [
       "Trabalhei com Windows Forms e C# para traduzir e desenvolver softwares para o setor portuário que estavam em linguagem Delphi utilizando os conceitos de Mock e Todo.",
       "Desenvolvimento de melhorias em aplicativos do setor Portuário Web e mobile usando Express, Angular, Ionic, Vue.JS, Next.JS e NestJS",
