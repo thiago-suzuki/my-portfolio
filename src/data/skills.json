@@ -46,5 +46,9 @@
   {
     "title": "Android Studio",
     "imageSrc": "skills/android-studio.png"
+  },
+  {
+    "title": "C#",
+    "imageSrc": "skills/csharp.png"
   }
 ]

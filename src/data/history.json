@@ -5,6 +5,9 @@
     "startDate": "Jun, 2024",
     "endDate": "O momento",
     "experiences": [
+      "Desenvolvimento de melhorias e correção de bugs em aplicativos do setor Portuário Web e mobile usando Angular, Ionic, NextJs/React, NestJs, Dbeaver/PostgreSQL, Express",
+      "Gradle e AppCenter para subir Apks na Play Store",
+      "Putty/Termius, Pm2 para manutencão de aplicações backend, reiniciar, subir e verificar se estão em bom funcionamento."
     ],
     "imageSrc": "history/google.png"
   },
