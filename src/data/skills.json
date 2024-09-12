@@ -50,5 +50,9 @@
   {
     "title": "C#",
     "imageSrc": "skills/csharp.png"
+  },
+  {
+    "title": "Vercel",
+    "imageSrc": "skills/vercel.png"
   }
 ]

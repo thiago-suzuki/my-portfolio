@@ -102,5 +102,13 @@
     "skills": ["C#", "Visual Studio", "NET", "Swagger"],
     "demo":"",
     "source": "https://github.com/thiago-suzuki/CsharpPraticaRocketseat"
+  },
+  {
+    "title": "in.Orbit App",
+    "imageSrc": "projects/orbit.png",
+    "description": "Projeto de Gerenciador de Metas feito durante NLW Pocket da Rocketseat",
+    "skills": ["React", "TailwindCSS", "Typescript", "NodeJS", "Fastify", "Docker"],
+    "demo":"https://nlw-pocket-frontend.vercel.app/",
+    "source": "https://github.com/thiago-suzuki/nlw-pocket-frontend"
   }
 ]
