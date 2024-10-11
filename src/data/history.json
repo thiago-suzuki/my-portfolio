@@ -5,9 +5,11 @@
     "startDate": "Jun, 2024",
     "endDate": "O momento",
     "experiences": [
-      "Desenvolvimento de melhorias e correção de bugs em aplicativos do setor Portuário Web e mobile usando Angular, Ionic, NextJs/React, NestJs, Dbeaver/PostgreSQL, Express",
-      "Gradle e AppCenter para subir Apks na Play Store",
-      "Putty/Termius, Pm2 para manutencão de aplicações backend, reiniciar, subir e verificar se estão em bom funcionamento."
+      "Desenvolvimento de melhorias e correção de bugs em aplicativos do setor Portuário Web e mobile usando Angular, Ionic, Vue.JS, Expo/React Native, NextJs/React, NestJs, Express",
+      "EAS, Android Studio, Gradle e AppCenter para subir Apks na Play Store e Apple Store",
+      "Tecnologia Nodemailer, para envio de Emails",
+      "PostgreSQL para criação de entidades, relações, views e functions",
+      "Putty, Pm2, AWS, Routes 53, EC2 e CloudFront para criação de aplicações frontend e backend, reiniciar, subir e verificar se estão em bom funcionamento."
     ],
     "imageSrc": "history/google.png"
   },
@@ -18,10 +20,11 @@
     "endDate": "Jun, 2024",
     "experiences": [
       "Trabalhei com Windows Forms e C# para traduzir e desenvolver softwares para o setor portuário que estavam em linguagem Delphi utilizando os conceitos de Mock e Todo.",
-      "Desenvolvimento de melhorias em aplicativos do setor Portuário Web e mobile usando Express, Angular, Ionic, Vue.JS, Next.JS e NestJS",
-      "PostgreSQL para gerenciamento de banco de dados ",
+      "Desenvolvimento de melhorias em aplicativos do setor Portuário Web e mobile usando Express, Angular, Ionic, Vue.JS, Expo/React Native, Next.JS/React e NestJS",
+      "PostgreSQL para criação de entidades, relações, views e functions",
       "Putty, Pm2, AWS, Routes 53 e EC2 para criação de aplicações backend, reiniciar, subir e verificar se estão em bom funcionamento.",
-      "Android Studio, Gradle e AppCenter para subir Apks na Play Store"
+      "Tecnologia Nodemailer, para envio de Emails",
+      "EAS, Android Studio, Gradle e AppCenter para subir Apks na Play Store e Apple Store"
     ],
     "imageSrc": "history/google.png"
   },
@@ -31,11 +34,12 @@
     "startDate": "Jun, 2022",
     "endDate": "Mar, 2023",
     "experiences": [
-      "Desenvolvimento de melhorias e correção de bugs em aplicativos do setor portuário nos ambientes front e back usando as tecnologias Angular, Ionic, VueJS, Express e PostgreSQL.",
+      "Desenvolvimento de melhorias e correção de bugs em aplicativos do setor portuário nos ambientes front e back usando as tecnologias Angular, Ionic, VueJS, Express",
       "Uso do Android Studio, AppCenter e Gradle na criação de Apks para subir na Play Store",
       "Nuvem AWS com Putty, Pm2, EC2 e Route 53 para criação de APIs e subir aplicativos backend em Node e bem como reiniciar.",
       "Framework React, para melhorias no front das aplicações web do setor portuário.",
       "Tecnologia Zenvia, para envio de SMS ",
+      "PostgreSQL para criação de entidades e relações",
       "Linguagem C#, para desenvolvimento de software para o setor portuário usando Windows forms, Mock e Todo para traduzir os códigos que estavam em Delphi"
     ],
     "imageSrc": "history/microsoft.png"
@@ -51,7 +55,7 @@
       "Uso do Bitbucket e JIRA para controle e registro das alterações feitas no projeto",
       "Uso do GIT para versionamento de código",
       "Uso do Framework VueJS para alterações no backoffice do projeto de coleta de informações",
-      "Uso do PostgreSQL para gerenciamento de banco de dados"
+      "Uso do PostgreSQL para criação de entidades e relações"
     ],
     "imageSrc": "history/netflix.png"
   }

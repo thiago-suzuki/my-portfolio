@@ -110,5 +110,21 @@
     "skills": ["React", "TailwindCSS", "Typescript", "NodeJS", "Fastify", "Docker"],
     "demo":"https://nlw-pocket-frontend.vercel.app/",
     "source": "https://github.com/thiago-suzuki/nlw-pocket-frontend"
+  },
+  {
+    "title": "Gam3r.store",
+    "imageSrc": "projects/eccommerce.png",
+    "description": "Projeto de Compras Online feito durante a trilha intermediária da Formação DEV",
+    "skills": [ "NextJS", "React", "TailwindCSS", "Typescript", "NodeJS", "NestJS", "Neon", "PostgreSQL", "Prisma", "Vercel", "Render", "TurboRepo"],
+    "demo":"https://fd-ecommerce-monorepo-frontend.vercel.app",
+    "source": "https://github.com/thiago-suzuki/fd-ecommerce-monorepo"
+  },
+  {
+    "title": "Freelance Hours",
+    "imageSrc": "projects/freelance.png",
+    "description": "Aplicação Freelance Hours feito durante o curso gratuito de PHP da Rocketseat",
+    "skills": ["PHP", "Laravel", "NodeJS", "TailwindCSS"],
+    "demo":"",
+    "source": "https://github.com/thiago-suzuki/php-freelance-hours"
   }
 ]
