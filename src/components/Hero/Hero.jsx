@@ -16,7 +16,7 @@ export const Hero = () => {
           {/* <a href="mailto:thiagoikenaga@gmail.com" className={styles.contactBtn}>
             Email
           </a> */}
-          <a href={"https://app.enhancv.com/share/7f46df5e/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic"} className={styles.contactBtn} target="_blank"a>
+          <a href={Curriculo} className={styles.contactBtn} target="_blank"a>
             Currículo
           </a>
         </div>
