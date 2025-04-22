@@ -16,7 +16,7 @@ Portfolio pessoal para mostrar um pouco das minhas experiências e projetos
 <br>
 
 ## Especificações
-- Node: 20.10.0
+- Node: 20.17.0
 - Pacote de Gerenciamento de Dependências: NPM
 - Framework: React + Vite
 

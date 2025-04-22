@@ -84,8 +84,10 @@
 }
 
 .historyItemDetails h3 {
-  font-size: 30px;
+  text-align: center;
+  font-size: 35px;
   font-weight: 500;
+  margin-bottom: 8px;
 }
 
 .historyItemDetails p {
