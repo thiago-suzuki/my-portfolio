@@ -16,6 +16,10 @@
     "imageSrc": "skills/nextjs.png"
   },
   {
+    "title": "TailwindCSS",
+    "imageSrc": "skills/tailwind.png"
+  },
+  {
     "title": "ExpressJS",
     "imageSrc": "skills/expressjs.png"
   },

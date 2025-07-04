@@ -1,27 +1,35 @@
 [
   {
+    "title": "ResumeCraft",
+    "imageSrc": "projects/resume-craft.png",
+    "description": "Projeto de Construção de Currículos com sistema de Pagamento de Créditos e geração de textos com IA",
+    "skills": [ "React", "TailwindCSS", "Typescript", "NextJS", "Shadcn", "Stripe", "AuthJS", "OpenAI", "PostgreSQL", "DrizzleORM"],
+    "demo":"https://resume-craft-phi.vercel.app",
+    "source": "https://github.com/thiago-suzuki/next-resume-craft"
+  },
+  {
+    "title": "Chronos Pomodoro",
+    "imageSrc": "projects/chronos.png",
+    "description": "Projeto de Gestão de Tempo de Tarefas no modelo Pomodoro",
+    "skills": [ "React", "CSS", "Typescript", "Vite"],
+    "demo":"https://chronos-pomodoro-nu.vercel.app",
+    "source": "https://github.com/thiago-suzuki/vite-chronos-pomodoro"
+  },
+  {
+    "title": "Gam3r.store",
+    "imageSrc": "projects/eccommerce.png",
+    "description": "Projeto de Compras Online feito durante a trilha intermediária da Formação DEV",
+    "skills": [ "NextJS", "React", "TailwindCSS", "Typescript", "NodeJS", "NestJS", "Neon", "PostgreSQL", "Prisma", "Vercel", "Render", "TurboRepo"],
+    "demo":"https://fd-ecommerce-monorepo-frontend.vercel.app",
+    "source": "https://github.com/thiago-suzuki/fd-ecommerce-monorepo"
+  },
+  {
     "title": "Portfolio",
     "imageSrc": "projects/portfolio.png",
     "description": "Portfólio pessoal feito para mostragem das minhas experiências e um pouco sobre meus projetos",
     "skills": ["React", "CSS", "JavaScript"],
     "demo": "https://portfolio-suzuki.vercel.app/",
     "source": "https://github.com/thiago-suzuki/my-portfolio"
-  },
-  {
-    "title": "Dom Casmurro Audiobook",
-    "imageSrc": "projects/dom-casmurro.png",
-    "description": "Projeto de Audiobook do Dom Casmurro feito durante o Intensivão de JavaScript da Hashtag Treinamentos",
-    "skills": ["HTML", "CSS", "JavaScript"],
-    "demo": "https://dom-casmurro.vercel.app/",
-    "source": "https://github.com/thiago-suzuki/aula01-intensivaojs"
-  },
-  {
-    "title": "Apple Watch",
-    "imageSrc": "projects/apple-watch.png",
-    "description": "Réplica do site Apple Watch feito durante o Intensivão de JavaScript da Hashtag Treinamentos",
-    "skills": ["HTML", "CSS", "JavaScript"],
-    "demo": "https://apple-watch-rose.vercel.app/",
-    "source": "https://github.com/thiago-suzuki/aula02-intensivaojs"
   },
   {
     "title": "Cardápio Hashtaurante",
@@ -32,76 +40,12 @@
     "source": "https://github.com/thiago-suzuki/aula03-intensivaojs"
   },
   {
-    "title": "Alurakut",
-    "imageSrc": "projects/alurakut.png",
-    "description": "Réplica do site Orkut feito durante a imersão react da Alura",
-    "skills": ["React", "CSS", "JavaScript"],
-    "demo":"https://alurakut-thiago-suzuki.vercel.app",
-    "source": "https://github.com/thiago-suzuki/alurakut"
-  },
-  {
     "title": "Consulta de CEP",
     "imageSrc": "projects/consulta-cep.png",
     "description": "Consulta de CEP feito durante a aula de Desenvolvimento Web na faculdade",
     "skills": ["HTML", "CSS", "JavaScript"],
     "demo":"https://consultacep-thiago-suzuki.vercel.app/",
     "source": "https://github.com/thiago-suzuki/Consulta-de-CEP"
-  },
-  {
-    "title": "Dashboards Power BI",
-    "imageSrc": "projects/project.png",
-    "description": "Dashboards feitos durante o Intensivão de Power BI da Hashtag Treinamentos",
-    "skills": ["Power BI"],
-    "demo":"",
-    "source": "https://github.com/thiago-suzuki/Dashboards-PowerBI-2023"
-  },
-  {
-    "title": "Expert Notes",
-    "imageSrc": "projects/expertNotes.png",
-    "description": "Aplicação Web para criação e deleção de notas usando escrita, ou por voz. Feito durante a NLW Expert da Rocketseat",
-    "skills": ["React", "TailwindCSS", "Typescript"],
-    "demo":"https://expert-notes.vercel.app/",
-    "source": "https://github.com/thiago-suzuki/nlw-expert-notes"
-  },
-  {
-    "title": "Pass.in App",
-    "imageSrc": "projects/passIN.png",
-    "description": "Aplicação de Cadastro de Ingressos feito durante o NLW UNITE na trilha React Native da Rocketseat",
-    "skills": ["React Native", "Android Studio", "TailwindCSS", "Typescript"],
-    "demo":"",
-    "source": "https://github.com/thiago-suzuki/nlw-unite-react-native"
-  },
-  {
-    "title": "Listagem de Dados",
-    "imageSrc": "projects/data-list-react.png",
-    "description": "Projeto de Listagem de Dados feito durante o evento React na Prática da Rocketseat",
-    "skills": ["React", "TailwindCSS", "Typescript"],
-    "demo":"",
-    "source": "https://github.com/thiago-suzuki/react-na-pratica-01"
-  },
-  {
-    "title": "Cook App",
-    "imageSrc": "projects/cook-app.png",
-    "description": "Aplicação de Receitas feito durante o evento React Native na Prática da Rocketseat",
-    "skills": ["React Native", "Android Studio", "Typescript"],
-    "demo":"",
-    "source": "https://github.com/thiago-suzuki/react-native-na-pratica-01"
-  },
-  {
-    "title": "Goals App",
-    "imageSrc": "projects/metas-app.png",
-    "description": "Aplicação de Metas feito durante o evento React Native na Prática da Rocketseat",
-    "skills": ["React Native", "Android Studio", "TailwindCSS", "Typescript"],
-    "demo":"",
-    "source": "https://github.com/thiago-suzuki/react-native-na-pratica-02"
-  },
-  {
-    "title": "C# API - Rocketseat",
-    "imageSrc": "projects/project.png",
-    "description": "API C# par uplaod de fotos no google drive feito durante o evento C# na Prática da Rocketseat",
-    "skills": ["C#", "Visual Studio", "NET", "Swagger"],
-    "demo":"",
-    "source": "https://github.com/thiago-suzuki/CsharpPraticaRocketseat"
   },
   {
     "title": "in.Orbit App",
@@ -112,12 +56,28 @@
     "source": "https://github.com/thiago-suzuki/nlw-pocket-frontend"
   },
   {
-    "title": "Gam3r.store",
-    "imageSrc": "projects/eccommerce.png",
-    "description": "Projeto de Compras Online feito durante a trilha intermediária da Formação DEV",
-    "skills": [ "NextJS", "React", "TailwindCSS", "Typescript", "NodeJS", "NestJS", "Neon", "PostgreSQL", "Prisma", "Vercel", "Render", "TurboRepo"],
-    "demo":"https://fd-ecommerce-monorepo-frontend.vercel.app",
-    "source": "https://github.com/thiago-suzuki/fd-ecommerce-monorepo"
+    "title": "Cook App",
+    "imageSrc": "projects/cook-app.png",
+    "description": "Aplicação de Receitas feito durante o evento React Native na Prática da Rocketseat",
+    "skills": ["React Native", "Android Studio", "Typescript"],
+    "demo":"",
+    "source": "https://github.com/thiago-suzuki/react-native-na-pratica-01"
+  },
+  {
+    "title": "Dashboards Power BI",
+    "imageSrc": "projects/project.png",
+    "description": "Dashboards feitos durante o Intensivão de Power BI da Hashtag Treinamentos",
+    "skills": ["Power BI"],
+    "demo":"",
+    "source": "https://github.com/thiago-suzuki/Dashboards-PowerBI-2023"
+  },
+  {
+    "title": "C# API - Rocketseat",
+    "imageSrc": "projects/project.png",
+    "description": "API C# par uplaod de fotos no google drive feito durante o evento C# na Prática da Rocketseat",
+    "skills": ["C#", "Visual Studio", "NET", "Swagger"],
+    "demo":"",
+    "source": "https://github.com/thiago-suzuki/CsharpPraticaRocketseat"
   },
   {
     "title": "Freelance Hours",
