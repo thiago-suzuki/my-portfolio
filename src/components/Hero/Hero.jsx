@@ -10,7 +10,7 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Olá, eu sou Thiago Suzuki</h1>
         <p className={styles.description}>
-          Sou um Desenvolvedor Full Stack com experiência em Angular, Ionic, NextJS e NestJS. Entre em contato comigo se você quiser saber mais!
+          Desenvolvedor Full Stack com mais de 3 anos de experiência. Apaixonado por tecnologia, tenho como principal motivação resolver problemas reais e superar desafios técnicos com soluções eficientes e bem estruturadas. Atuo com foco em performance, escalabilidade e boa experiência do usuário, sempre buscando evoluir como profissional e contribuir com times de alta performance.
         </p>
         <div className={styles.contact}>
           {/* <a href="mailto:thiagoikenaga@gmail.com" className={styles.contactBtn}>
