@@ -1,5 +1,13 @@
 [
   {
+    "title": "Agents I.A",
+    "imageSrc": "projects/agents.png",
+    "description": "Projeto de Perguntas e Respostas com Inteligência Artificial desenvolvido durante o evento NLW Agents da Rocketseat",
+    "skills": [ "React", "TailwindCSS", "Typescript", "Vite", "Shadcn", "GeminiAI", "PostgreSQL", "DrizzleORM", "Zod", "Fastify", "NeonDB", "Ky"],
+    "demo":"https://agents-ia-nu.vercel.app",
+    "source": "https://github.com/thiago-suzuki/nlw-agents-frontend"
+  },
+  {
     "title": "ResumeCraft",
     "imageSrc": "projects/resume-craft.png",
     "description": "Projeto de Construção de Currículos com sistema de Pagamento de Créditos e geração de textos com IA",
